@@ -17,4 +17,4 @@ Accuracy: 90.74%, Precision: 92.59%, Recall: 89.29% on the test set. The stronge
 Open the notebook in Google Colab and run all cells top to bottom.
 
 ## Walkthrough video
-PASTE-LINK-HERE
+https://drive.google.com/file/d/1jkqISc1qCamG2qGjONfKR6VNR2xXJCh_/view?usp=drivesdk
